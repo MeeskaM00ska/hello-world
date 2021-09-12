@@ -1,2 +1,6 @@
 # hello-world
-just another shit
+
+In the editor, write a bit about yourself.
+
+In the editor, write a bit about yourself.
+In the editor, write a bit about yourself.
